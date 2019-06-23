@@ -1,0 +1,16 @@
+.logo{
+	width:100px;
+	margin-left:30px;
+	margin-right:50px;
+	vertical-align:middle;
+
+}
+.d-block{
+	display:inline-block;
+}
+.navigation-a{
+	margin-right:30px;
+}
+span{
+	color:red;
+}
