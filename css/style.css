@@ -17,4 +17,8 @@
 span{
 	color:red;
 }
-
+.divider{
+	height:23pt;
+	width:2pt;
+	background:blue;
+}
