@@ -1,0 +1,42 @@
+.logo{
+	width:100px;
+	margin-left:30px;
+	margin-right:50px;
+	vertical-align:middle;
+
+}
+.navigation-a{
+	margin-right:30px;
+}
+.navigation-a{
+	text-decoration:none;
+}
+span{
+	color:red;
+}
+.d-block{
+	display:inline-block;
+}
+.article-p{
+	width:250pt;
+}
+.p-div{
+	vertical-align:top;
+}
+.article-div{
+	margin:35pt;
+}
+.section{
+	background-color:grey;
+}
+.divider{
+	height:23pt;
+	width:2pt;
+	background:blue;
+}
+.footer-div{
+	margin:35pt 0 0 32pt;
+}
+.divider{
+	margin:0 30pt;
+}
