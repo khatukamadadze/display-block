@@ -30,3 +30,18 @@ span{
 .article-p1{
 	font-size:12pt;
 }
+.article-p{
+	width:500pt;
+}
+.article-p2{
+	width:500pt;
+}
+.article-img{
+	vertical-align:top;
+	margin-right:48pt;
+	margin-left:30pt;
+}
+.h3{
+	margin-top:32pt;
+	margin-bottom:22pt;
+}
