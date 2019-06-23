@@ -45,3 +45,14 @@ span{
 	margin-top:32pt;
 	margin-bottom:22pt;
 }
+.divider{
+	height:23pt;
+	width:2pt;
+	background:blue;
+}
+.footer-div{
+	margin:35pt 0 0 32pt;
+}
+.divider{
+	margin:0 30pt;
+}
