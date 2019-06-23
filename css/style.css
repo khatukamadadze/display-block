@@ -28,3 +28,6 @@ span{
 .divider{
 	margin:0 30pt;
 }
+.navigation-a{
+	text-decoration:none;
+}
