@@ -15,11 +15,14 @@ span{
 	color:red;
 }
 .div-date{
-	font-size:48pt;
+	font-size:24pt;
 	background-color:#3D58A6;
 	padding:10pt;
-	width:50pt;
+	width:25pt;
 	color:white;
+	margin-top:45pt;
+	margin-bottom:12pt;
+	
 }
 .article{
 	margin-left:30pt;
