@@ -14,3 +14,16 @@
 span{
 	color:red;
 }
+.div-date{
+	font-size:48pt;
+	background-color:#3D58A6;
+	padding:10pt;
+	width:50pt;
+	color:white;
+}
+.article{
+	margin-left:30pt;
+}
+.article-p1{
+	font-size:12pt;
+}
